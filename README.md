@@ -1,4 +1,4 @@
-## ChatBot for Elder Citizens (Specially Dimentia Patients)
+## Chat Bot for Elder Citizens (Specially Dimentia Patients)
 
 ====================================================================
 
