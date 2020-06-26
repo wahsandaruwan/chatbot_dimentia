@@ -1,0 +1,4 @@
+/.vscode
+package-lock.json
+preload.js
+/gui/node_modules
