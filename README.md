@@ -39,5 +39,7 @@ Backend :
     * python-shell
     * node-js / npm
 
+### License : MIT
+
 ## You are welcome to this update this project if it contains any miss matches.
 
